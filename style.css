@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(181, 216, 236);
+
+}
+
+h1{ 
+    text-align: center;
+    color: rgb(7, 55, 83);
+}
+
+button{
+    background-color: rgb(108, 165, 197);
+    font-size: small;
+    font-weight: bold;
+    border-radius: 30%;
+}
