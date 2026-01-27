@@ -9,3 +9,7 @@ function poga2() {
 function poga3() {
     window.location.href="tl.html"
 }
+
+function poga4() {
+    window.location.href="rk.html"
+}
