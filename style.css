@@ -14,3 +14,29 @@ button{
     font-weight: bold;
     border-radius: 30%;
 }
+
+div {
+padding: 20px;
+margin: 20px;
+border: 2px solid black;
+}
+
+.augsa{
+background-color: #8b9aad;
+}
+
+a{
+color: #eaebfa;
+text-decoration: none;
+font-size: 20px;
+background-color: #535c68;
+padding: 10px;
+margin-right: 10px;
+box-shadow: 5px 5px 5px #8b9aad;
+border-radius: 10%;
+border-width: 3px;
+border-color: black;
+
+}
+
+
