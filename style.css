@@ -3,6 +3,9 @@ body{
 
 }
 
+img{
+    align-items: center;
+}
 h1{ 
     text-align: center;
     color: rgb(7, 55, 83);
@@ -39,7 +42,15 @@ box-shadow: 5px 5px 5px #8b9aad;
 border-radius: 10%;
 border-width: 3px;
 border-color: black;
+}
 
+.center{
+margin: 0;
+position: absolute;
+top: 50%;
+left: 50%;
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
 }
 
 
