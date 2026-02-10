@@ -13,3 +13,7 @@ function poga3() {
 function poga4() {
     window.location.href="rk.html"
 }
+
+function poga5() {
+    window.location.href="https://www.riekstukalns.lv/"
+}
