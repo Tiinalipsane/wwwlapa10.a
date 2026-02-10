@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(181, 216, 236);
+    background-color: rgb(192, 223, 241);
 
 }
 
 h1{ 
     text-align: center;
-    color: rgb(7, 55, 83);
+    color: rgb(7, 45, 66);
 }
 
 button{
@@ -50,4 +50,14 @@ left: 50%;
 transform: translate(-50%, -50%);
 }
 
+li{
+    font-size: 18px;
+}
 
+h3{
+    font-size: 25px;
+}
+
+h4{
+    font-size: 22px;
+}
